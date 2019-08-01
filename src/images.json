@@ -1,0 +1,115 @@
+[
+  {
+    "id": 1,
+    "name": "Wynonna Earp",
+    "clicked": false,
+    "image":
+      "http://images6.fanpop.com/image/photos/40100000/Wynonna-being-O-K-wynonna-earp-40185197-245-275.gif"
+  },
+  {
+    "id": 2,
+    "name": "Waverly Earp",
+    "clicked": false,
+    "image":
+      "https://66.media.tumblr.com/11e05815d84fd3785fb6c34e92f41cc7/tumblr_ovweolC4Q71w4sd2oo1_250.gif"
+  },
+  {
+    "id": 3,
+    "name": "Nicole",
+    "clicked": false,
+    "image":
+      "https://thumbs.gfycat.com/InfiniteNaturalItalianbrownbear-max-1mb.gif"
+  },
+  {
+    "id": 4,
+    "name": "Doc",
+    "clicked": false,
+    "image":
+      "https://66.media.tumblr.com/2cfa4adb84d03000dc2eff35a070a8c0/tumblr_ordhtvH8Rf1qmybnno2_250.gif"
+  },
+  {
+    "id": 5,
+    "name": "Dolls",
+    "clicked": false,
+    "image":
+      "https://pa1.narvii.com/6904/f66052e4511431925d524acbb6d28c61b5bc2e85r1-320-320_hq.gif"
+  },
+  {
+    "id": 6,
+    "name": "Bobo",
+    "clicked": false,
+    "image":
+      "http://68.media.tumblr.com/5566eb4df3f388d3aac940936df59894/tumblr_o5g0ucxXVV1s7vfego1_400.gif"
+  },
+  {
+    "id": 7,
+    "name": "Jeremy",
+    "clicked": false,
+    "image":
+      "https://66.media.tumblr.com/ebbcf7d587a03a835b772c94662b7e81/tumblr_ore3pcfCji1tiy9juo1_250.gif"
+  },
+  {
+    "id": 8,
+    "name": "Randy",
+    "clicked": false,
+    "image":
+      "https://66.media.tumblr.com/73bdc34d9541f65eb4f5cf0f34b56619/tumblr_oup47nFUDH1vqs1ilo4_250.gif"
+  },
+  {
+    "id": 9,
+    "name": "Rosita",
+    "clicked": false,
+    "image":
+      "https://66.media.tumblr.com/93c43f3549d06d6a93347d65e541e583/tumblr_otvnvsIuZQ1qaycvmo2_250.gif"
+  },
+  {
+    "id": 10,
+    "name": "Mercedes",
+    "clicked": false,
+    "image":
+      "https://66.media.tumblr.com/eba03626f4bac9815112c76204a05418/tumblr_inline_os2b3mlFPA1ulbkbo_540.gif"
+  },
+  {
+    "id": 11,
+    "name": "Willa",
+    "clicked": false,
+    "image":
+      "https://66.media.tumblr.com/60695787fdd83e5d96c5304d7af76518/tumblr_pk2f8f2xEK1xbour4o5_400.gif"
+  },
+  {
+    "id": 12,
+    "name": "Charlie",
+    "clicked": false,
+    "image":
+      "https://66.media.tumblr.com/9228f8fc070f82ac1ea5775b4af03992/tumblr_pfktqa359d1wp478qo1_250.gif"
+  },
+  {
+    "id": 13,
+    "name": "Mattie",
+    "clicked": false,
+    "image":
+      "https://66.media.tumblr.com/65cbc9e4b1fb935769d2df4279140ac0/tumblr_o6t1va0bBe1vtpp80o3_250.gif"
+  },
+  {
+    "id": 14,
+    "name": "Michelle",
+    "clicked": false,
+    "image":
+      "https://66.media.tumblr.com/30a21d44b62cbff21d702fd179e1faa5/tumblr_pdc3sqIGyq1vwcoz9o9_250.gif"
+  },
+  {
+    "id": 15,
+    "name": "Robin",
+    "clicked": false,
+    "image":
+      "https://media3.giphy.com/media/iNLjl0sPDOtc8M3OAd/source.gif"
+  },
+  {
+    "id": 16,
+    "name": "Kate",
+    "clicked": false,
+    "image":
+      "https://66.media.tumblr.com/809ef0e30ca795f9cfac7bb8f59d7f9f/tumblr_pfy7h3R6Gt1xbour4o1_250.gif"
+  }
+]
+
