@@ -1,6 +1,7 @@
 # Wynonna Earp Click Bait
 
 ## React - Clicky Game
+![](banner.jpg)
 
 Memory game built with React.
 
@@ -8,8 +9,11 @@ Memory game built with React.
 
 ## Live App:
 
-[Check out the live app here](https://ebayler.github.io/React-Clicky-Game/)
+[Play the app here](https://ebayler.github.io/React-Clicky-Game/)
 
+### Watch it in action here:
+
+![](we.gif)
 
 
 ### Instructions
